@@ -1,0 +1,8 @@
+Reference,Value / Description,Quantity,Notes
+J1,Battery / 2-pin input connector,1,Power input; confirm connector footprint before ordering
+SW1,Push button,1,Momentary switch
+D1,LTL-307EE LED,1,LED part/value as shown in schematic
+R1,100 ohm resistor,1,As specified in schematic
+R2,100 ohm resistor,1,As specified in schematic
+R3,10 kΩ resistor,1,As specified in schematic
+C1,10 µF polarized capacitor,1,Check polarity and footprint before assembly
